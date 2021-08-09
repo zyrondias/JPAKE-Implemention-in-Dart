@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+A JPAKE (Password Authenticated Key Exchange using Juggling) in Dart 2.0
+
